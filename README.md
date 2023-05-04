@@ -4,7 +4,7 @@
 3. Implementing learning algorithm for multi-modal similarity and between-sample variance
 
 # Result
-Tested on Bi-LSTM and Transformer encoder for LFpool (benchmark) and SDPRL, outperform by 13.4& in AUROC.
+Tested on Bi-LSTM and Transformer encoder for LFpool (benchmark) and SDPRL, outperform by 13.4% in AUROC.
 
 # Dependencies
 Please refer to environment.yml
